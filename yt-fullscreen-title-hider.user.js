@@ -7,6 +7,8 @@
 // @supportURL   https://github.com/sh-bd/YT-Fullscreen-Title-Hider/issues
 // @match        https://www.youtube.com/*
 // @namespace    https://github.com/sh-bd/YT-Fullscreen-Title-Hider
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
+// @updateURL    https://github.com/sh-bd/YT-Fullscreen-Title-Hider/releases/latest/download/yt-fullscreen-title-hider.meta.js
 // @downloadURL  https://github.com/sh-bd/YT-Fullscreen-Title-Hider/releases/latest/download/yt-fullscreen-title-hider.user.js
 // @grant        none
 // ==/UserScript==
